@@ -1,0 +1,1 @@
+Zadanie 21 może być zaimplementowane w dowolny sposób, proszę zadbać jedynie o sensowne przedstawienie końcowych danych na temat sortowań (minimalna, maksymalna i średnia liczba porównań i podstawień przy 1000 powtórzeniach sortowania tablicy liczb składającej się z 10 000 losowo wygenerowanych wartości całkowitoliczbowych)

@@ -1,0 +1,1 @@
+Zadanie proszę wykonać w oparciu o dowolny algorytm znajdowania najkrótszych ścieżek poznany na wykładzie, graf proszę reprezentować jedną z poznanych metod - albo poprzez tablicę sąsiedztwa (dynamiczna tablica 2D najlepiej czytana z pliku txt) lub lista sąsiedztwa (zawartość również czytana z pliku tekstowego). Wagi ścieżek można przechowywać w formie liczb całkowitych.
